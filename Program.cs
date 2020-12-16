@@ -33,12 +33,12 @@ namespace Laba9
 
             Console.WriteLine("\n------------------------------------------------------\n");
 
-            string str = "Эххх.....     Был у меня когда-то товарищ,           а оказался......    мычь..........";
+            string str = "Эххх.....     Был у меня когда-то товарищ,           а оказался......    крыса..........";
             Action<string> DelegAction = message => Console.WriteLine(message); // Создание делегата по шаблону
             DelegAction("Исходная строка:\n" + str + "\n");
             Func<string, string> DelegFunc; // Создание делегата по шаблону
             DelegFunc = DeleteDots;
-            str = DelegFunc(str);
+            str = DelegFunc(str); // Т.к. все методы возвращают строку, то через групповую адресацию не получится
             DelegFunc = ToUp;
             str = DelegFunc(str);
             DelegFunc = DeleteAllSpaces;

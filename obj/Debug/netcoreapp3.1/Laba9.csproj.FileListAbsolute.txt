@@ -1,0 +1,13 @@
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.exe
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.deps.json
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.runtimeconfig.json
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.runtimeconfig.dev.json
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.dll
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\bin\Debug\netcoreapp3.1\Laba9.pdb
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.csprojAssemblyReference.cache
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.AssemblyInfoInputs.cache
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.AssemblyInfo.cs
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.csproj.CoreCompileInputs.cache
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.dll
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.pdb
+E:\Учёба\2_курс\1_семестр\ООП\Laba9\Laba9\obj\Debug\netcoreapp3.1\Laba9.genruntimeconfig.cache
